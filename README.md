@@ -3,7 +3,7 @@ HTML (cc1)
 
 Heroku HTML project deployment:
 
-1. Open root directory repo with index.html
+1. Open root repo directory with index.html
 2. Create: composer.json
 3. Add line: {}
 4. Create: index.php
