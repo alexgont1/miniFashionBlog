@@ -2,7 +2,9 @@
 HTML (cc1)
 
 Heroku HTML project deployment:
+Create new app on Heroku
 
+  Git steps:
 1. Open root repo directory with index.html
 2. Create: composer.json
 3. Add line: {}
